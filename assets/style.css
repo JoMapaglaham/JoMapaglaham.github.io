@@ -50,7 +50,8 @@ body{
 
 .proj{
     position: relative;
-    left: 15%;
+    left: 10%;
+    margin: 2px;
     padding: 3px;
     font-weight: bold;
     background-color: aqua;
@@ -61,7 +62,9 @@ body{
 
 .about .contain{
     position: relative;
-    margin-top: 5px;
+    margin-top: 20px;
 }
 
-
+.text span{
+    color: teal;
+}
